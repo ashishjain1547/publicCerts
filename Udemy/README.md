@@ -1,2 +1,0 @@
-# MyUdemyCerts
-My Udemy Certifications
